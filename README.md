@@ -1,7 +1,7 @@
 # aditi_rathi
 about me!
 <p align="center">
-  <img src="CSE’26  Coder  Writer  Dreamer.png" alt="a short Introduction">
+  <img src="CSE’26  Coder  Writer  Dreamer (1).png" alt="a short Introduction">
 </p>
 
 <h1>Hey everyone!</h1>

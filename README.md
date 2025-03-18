@@ -1,7 +1,7 @@
 # aditi_rathi
 about me!
 <p align="center">
-  <img srx="" alt="a short Introduction">
+  <img src="CSE’26  Coder  Writer  Dreamer.png" alt="a short Introduction">
 </p>
 
 <h1>Hey everyone!</h1>
@@ -21,12 +21,6 @@ about me!
 </div>
 
 
-<h3> 🌈 How I Can Add Color:</h3>
-<div>
-- Ask me about anything from backend logic to frontend frameworks—I’m here to help!<br>
-- Got a data analysis puzzle? I’m your solver!<br>
-- Let’s discuss emerging tech and the future of AI and machine learning.<br>
-</div>
 <div>
   
   🗨️ We can talk about **Android-studio, Artificial-Intelligence, Data Analysis, Machine Learning, and cats**

@@ -1,53 +1,68 @@
-# aditi_rathi
-about me!
+<!-- Aditi Rathi | GitHub Profile README -->
+
+<h1 align="center">Hey there, I'm Aditi Rathi </h1>
+
 <p align="center">
-  <img src="CSE’26  Coder  Writer  Dreamer (1).png" alt="a short Introduction">
+  <img src="intro.png" alt="Intro Banner" width="600">
 </p>
 
-<h1>Hey everyone!</h1>
-<h3>I'm Aditi Rathi, a Computer Science Engineering student fueled by an insatiable curiosity for AI, Machine Learning, and App Development. Whether it’s crafting intelligent solutions, building innovative apps, or experimenting with groundbreaking ideas, I thrive on turning imagination into reality. And if I had to speak in a coding language? Well, I’d choose Java—structured, versatile, and always evolving—just like me!
-</h3>
+<p align="center">
+  <em> Computer Science Engineering Student |  AI Enthusiast |  Writer</em>
+</p>
 
+---
 
+### 👩‍💻 About Me  
+Hi! I'm **Aditi Rathi**, a passionate **Computer Science Engineering student (CSE’26)** who loves transforming ideas into reality through code and creativity.  
+I enjoy exploring the fields of **Artificial Intelligence, Machine Learning, and Problem Solving**.  
 
+ I’m curious about how intelligence can be coded into machines.  
+ I love building Android apps that solve real-world problems.  
+ When I’m not coding, you’ll find me writing, singing, or dancing.  
+ And yes, I’m a total **cat person!**
 
-<h3>In this journey the topics I have covered so far!</h3>
-<div>
-  <strong>Languages:</strong>  Java, Python, JavaScript, C++, HTML, CSS<br>
-  <strong>Databases:</strong> SQL, MongoDB, SQLlite<br>
+---
 
-  <strong>Tools:</strong> Android Studio, Eclipse-id<br>
-  
-</div>
+### 🧰 Tech Stack  
 
+**Languages:**  
+ Java &nbsp; | &nbsp; Python &nbsp; | &nbsp;  C++ &nbsp; | &nbsp;  HTML, CSS, JavaScript  
 
-<div>
-  
-  🗨️ We can talk about **Android-studio, Artificial-Intelligence, Data Analysis, Machine Learning, and cats**
-  
-  📧 you can always ping me your ideas @ **aditirathi340@gmail.com**
+**Databases:**  
+SQL &nbsp; | &nbsp; MongoDB &nbsp; | &nbsp; SQLite  
 
-  ⚡ In my free time I indulge myself in writing, singing, dancing, and talking about various topics!
-  
+**Tools & IDEs:**  
+Android Studio &nbsp; | &nbsp; Eclipse &nbsp; | &nbsp; VS Code  
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditirathi33?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-   
-  
+### 🌍 Let's Connect!  
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditirathi33" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  </p>
-<h3 align="left"> give a visit to My digital world : </h3>
-<p align="left">
-  <a href ="https://aditirathi33.github.io/aditirathi.github.io/" target="blank">Visit My Digital World</a>
-
-
-  
-  
-  
-
+  <a href="https://www.instagram.com/okditi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/AditiRathi33" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@aditirathi340" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
 
+📧 **Email:** [aditirathi340@gmail.com](mailto:aditirathi340@gmail.com)  
+🌐 **Portfolio:** [Visit My Digital World 🌏](https://aditirathi33.github.io/aditirathi.github.io/)
 
-  
+---
+
+###  Fun Fact  
+> “If I had to describe myself in a programming language, I’d choose **Java** — structured, versatile, and always evolving — just like me!”
+
+---
+
+###  Visitor Count  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditirathi33&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>

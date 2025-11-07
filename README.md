@@ -58,7 +58,7 @@ Android Studio &nbsp; | &nbsp; Eclipse &nbsp; | &nbsp; VS Code
 ---
 
 ###  Fun Fact  
-> “If I had to describe myself in a programming language, I’d choose **Java** — structured, versatile, and always evolving — just like me!”
+> “My creative process involves equal parts caffeine, curiosity, and cat cuddles.”
 
 ---
 
